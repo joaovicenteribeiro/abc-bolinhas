@@ -8,4 +8,4 @@
 ## Enzo Hohmann Nava
 ## Pedro Henrique Barbosa Ezequiel de Melo
 ## Kevin 
-## Dionisio
+## Dionisio Fernando Wiggers
