@@ -7,7 +7,7 @@
 ## Tiago Erthal Weber
 ## Enzo Hohmann Nava
 ## Pedro Henrique Barbosa Ezequiel de Melo
-## Kevin 
+## Kevin Luiz Ferreira
 ## Dionisio Fernando Wiggers
 # Hub de Alunos — Investigação Criminal
 
